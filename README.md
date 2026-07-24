@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**kwonfig/kwonfig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="terminal-v2.svg" width="640" alt="terminal" />
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://raw.githubusercontent.com/kwonfig/kwonfig/output/github-contribution-grid-snake.svg)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=kwonfig&color=00ff41&style=flat-square&label=)
+
+</div>
