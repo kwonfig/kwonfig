@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>&gt; Let's hack together_</h2>
+<h2>&gt; let's hack_</h2>
 
 <img src="terminal.svg" width="640" alt="terminal" />
 
