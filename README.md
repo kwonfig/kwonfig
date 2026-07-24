@@ -1,13 +1,11 @@
 <div align="center">
 
+<h2>&gt; let's hack together_</h2>
+
 <img src="terminal.svg" width="640" alt="terminal" />
 
 <br><br>
 
-![Snake animation](https://raw.githubusercontent.com/kwonfig/kwonfig/output/github-contribution-grid-snake.svg)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=kwonfig&color=00ff41&style=flat-square&label=)
+![Email](https://img.shields.io/badge/-ko902260%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=00ff41&labelColor=0d1117)
 
 </div>
